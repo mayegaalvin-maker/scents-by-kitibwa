@@ -11,6 +11,10 @@ npm run dev
 
 Create a production build with `npm run build`; use `npm run preview` to inspect that build locally.
 
+## Publish with GitHub Pages
+
+The site is published at https://mayegaalvin-maker.github.io/scents-by-kitibwa/. GitHub Actions builds and deploys updates whenever changes are pushed to `main`.
+
 ## Product listings
 
 Open **Owner** in the site navigation, create an owner PIN on the first visit, then add listings with up to five product photos, category, price, currency and description. Listings can be edited or removed. Photos are resized in the browser before they are stored.
